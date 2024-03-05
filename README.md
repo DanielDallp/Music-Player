@@ -1,4 +1,4 @@
-<h1>Dallp wiki</h1>
+<h1>Music player</h1>
 
 <h2>�� About</h2>
 <p>Project to improve my knowledge of HTML and CSS.</p>
